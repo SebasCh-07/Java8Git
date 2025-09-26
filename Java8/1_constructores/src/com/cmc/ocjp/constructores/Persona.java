@@ -12,6 +12,5 @@ public class Persona {
 		this("Sebas");
 		this.nombre=nombre;
 		this.edad=edad;
-		Persona(nombre);
 	}
 }
